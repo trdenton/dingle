@@ -1,0 +1,15 @@
+Requires 'alsa-utils' package (ubuntu)
+
+install:
+
+sudo ./install.sh
+
+usage:
+
+dingle <command>
+
+where <command> is any command you like!
+
+example:
+
+dingle dd if=/dev/random of=/tmp/test.img bs=4M count=10
