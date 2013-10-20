@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #run all args passed
-echo $( $@ )
+$@
 aplay /usr/local/dingle.wav 2>/dev/null
