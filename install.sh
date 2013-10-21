@@ -2,7 +2,7 @@
 
 #likely only compatable with bash
 #make sure to perform a "source ~\.bashrc" afterward!
-echo 'make sure to perform a "source ~\.bashrc"! '
+echo 'make sure to perform a "source ~/.bashrc"! '
 
 
 mkdir -p ~/.dingle
